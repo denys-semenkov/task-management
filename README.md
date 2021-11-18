@@ -1,4 +1,3 @@
-# Microservices Structure Example (Task Management Software)
 ## Stack
 - Go
 - Postgres
